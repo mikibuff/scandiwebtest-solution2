@@ -1,0 +1,10 @@
+/* Reset CSS */
+
+.product-thumbnail {
+  border: 2px solid black;
+  margin: 15px;
+  padding: 20px ;
+}
+.delete-checkbox {
+  float:left;
+}
